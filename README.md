@@ -12,3 +12,8 @@ To delete:
 Building:
    You can use the visual studio project inside src folder
    Using the CMakeList I created, you can actually build this for Linux and Mac OS also. And even into a webassembly binary, to be served as a webui.
+
+
+Screenshot:
+
+https://github.com/jakehf90s/WinQuotePro/blob/main/winquotepro_ss.png
