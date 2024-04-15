@@ -17,3 +17,7 @@ Building:
 Screenshot:
 
 https://github.com/jakehf90s/WinQuotePro/blob/main/winquotepro_ss.png
+
+
+built binaries(with libs):
+https://github.com/jakehf90s/WinQuotePro/blob/main/built.zip
